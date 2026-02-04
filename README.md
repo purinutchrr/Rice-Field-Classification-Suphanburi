@@ -1,7 +1,5 @@
 # Rice Field Classification Project: Suphan Buri (2021)
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Geopandas%20%7C%20GEE%20%7C%20Sklearn-orange)
 
 ## Project Overview
